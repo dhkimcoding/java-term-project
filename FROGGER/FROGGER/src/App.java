@@ -2,8 +2,8 @@ import javax.swing.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        int boardWidth = 271;
-        int boardHeight = 193;
+        int boardWidth = 271 * 3;
+        int boardHeight = 193 * 3;
 
         JFrame frame = new JFrame("FROGGER");
         
